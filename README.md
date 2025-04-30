@@ -1,0 +1,2 @@
+# infonext
+Información sobre nextjs
